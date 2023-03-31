@@ -28,4 +28,4 @@
 
 # Pareamento
 
-[Iano Maciel](https://github.com/IanoMaciel) e Henrique Simas
+[Iano Maciel](https://github.com/IanoMaciel) e [Henrique Simas](https://github.com/Henr1que-Simas)
